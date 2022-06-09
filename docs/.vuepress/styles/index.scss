@@ -1,0 +1,9 @@
+$theme-color: #2474b5;
+
+:root {
+  --c-brand: #{$theme-color};
+}
+
+html.dark {
+  --c-brand: #{$theme-color};
+}

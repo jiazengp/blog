@@ -1,0 +1,9 @@
+[submodule "docs/docs/vuepress/public"]
+	path = docs/docs/vuepress/public
+	url = https://github.com/jiazengp/static.git
+[submodule "docs/vuepress/public"]
+	path = docs/vuepress/public
+	url = https://github.com/jiazengp/static.git
+[submodule "docs/.vuepress/public"]
+	path = docs/.vuepress/public
+	url = https://github.com/jiazengp/static.git

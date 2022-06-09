@@ -1,0 +1,20 @@
+# Vuepress Cache
+.cache/
+
+# Vuepress Temp
+.temp/
+
+# Vuepress Output
+dist/
+
+# Node modules
+node_modules/
+
+# Test Coverage
+coverage/
+
+# Public Assets
+public/
+
+# pnpm lock file
+pnpm-lock.yaml
