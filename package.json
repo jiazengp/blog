@@ -46,7 +46,7 @@
     }
   },
   "prettier": "prettier-config-vuepress",
-  "packageManager": "pnpm@7.1.7",
+  "packageManager": "pnpm@7.2.0",
   "engines": {
     "node": ">=14",
     "pnpm": ">=7"
